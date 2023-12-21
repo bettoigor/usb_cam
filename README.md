@@ -33,7 +33,7 @@ rosrun image_view image_view image:= soybot_model soybot_model.launch
 and the image can be seen:
 
 
-![Configurator](/doc/img_1.jpg)
+![Configurator](/doc/img_1.png)
 
 ## Checking the Environment
 ### Checking the published topics

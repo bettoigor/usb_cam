@@ -33,4 +33,8 @@ rosrun image_view image_view image:= soybot_model soybot_model.launch
 and the image can be seen:
 
 
-![Configurator](/doc/img_1.png)
+![Configurator](/doc/img_2.png
+
+Adalberto Oliveira
+bettoigor@gmail.com
+@bettoigor

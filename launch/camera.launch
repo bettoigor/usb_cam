@@ -1,0 +1,15 @@
+<launch>
+  <!-- Initial Paramteres -->
+  <rosparam file="$(find usb_cam)/cfg/usb_cam_params.yaml"/>
+
+    <node name="usb_camera_node"
+        pkg="usb_cam"
+        type="usb_cam">
+        <!--output="screen"-->
+
+	<remap from="image_raw" to="/camera/color/image_raw"/>
+	<remap from="image_reduced" to="/camera/color/image_reduced"/>
+
+	</node>
+
+</launch>

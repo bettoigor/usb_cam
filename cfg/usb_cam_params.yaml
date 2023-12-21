@@ -1,0 +1,10 @@
+usb_cam:
+  video:
+    video_source: 0
+    frame_width: 640
+    frame_height: 480
+  control:
+    rate: 30
+    show_img: true
+  test:
+    dummy_param: true

@@ -6,5 +6,3 @@ usb_cam:
   control:
     rate: 30
     show_img: true
-  test:
-    dummy_param: true
